@@ -8,11 +8,11 @@
 Hello DBA team!  I hope you are all doing well! We are planning on investing in a hospital setting and beginning our journey in the healthcare industry. But before that, we would like to analyze the place and the services they offer. We have a small sample database that they have provided, which will help us understand their current workflow and profitability. 
 I have some questions regarding the same and it would be great if you could answer them by the end of this week. Also, it seems that the person who built this database did not leave any documentation, so can you attach an ERD and document it as well?
 
-**Demographics**
+**Demographics**  
 
-1.	I would like to know the religious structure of the population we are dealing with. Can you give me the list of any 5 random religions?
+1.	I would like to know the religious structure of the population we are dealing with. Can you give me the list of any 5 random religions?  
    
-**Profitability**
+**Profitability**  
 
 3.	The profitability of a hospital depends on the kind of insurance they have in its Payer mix. I would like to see the proportion of deaths among each insurance type, to determine whether the hospital is biased in their treatment and care, considering Private insurance pays more compared to Medicare/Medicaid.
 4.	Can we determine the average length of stay for Elective and Emergency admissions? The longer the length of stay, the more resources are getting used up.
